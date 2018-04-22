@@ -1,6 +1,6 @@
 # Stress on Docker
 
-A simple docker image for running the [stress](http://people.seas.harvard.edu/~apw/stress/).
+A simple docker image for running [stress](http://people.seas.harvard.edu/~apw/stress/).
 
 ## Building
 
